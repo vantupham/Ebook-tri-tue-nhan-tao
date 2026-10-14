@@ -1,0 +1,27 @@
+MỞ HỘP ĐEN AI - TẬP 1: AI QUANH TA (LỚP 10)
+Bộ notebook Google Colab đi kèm sách
+Ebook Bên trong cỗ máy Trí tuệ nhân tạo - Tập 1. Phát hành tại https://montinhoc.vn
+
+Tuần 1        Bai00_Khoi_dong.ipynb                 Làm quen Colab, ôn Python
+Tuần 2-4      Bai01_AI_la_gi_khong_la_gi.ipynb      Ba con bot oẳn tù tì
+Tuần 5-7      Bai02_Du_lieu_thuc_an_cua_AI.ipynb    Khám và làm sạch bảng khảo sát
+Tuần 8-10     Bai03_May_hoc_tu_vi_du.ipynb          Bộ lọc tin nhắn rác
+Tuần 11-13    Bai04_Du_doan_mot_con_so.ipynb        Dự đoán số ly trà sữa
+Tuần 15-17    Bai05_Mo_hinh_tot_den_dau.ipynb       Chấm điểm bộ lọc tin nhắn
+Tuần 18-20    Bai06_May_tu_tim_nhom.ipynb           Gom nhóm bài hát, hệ gợi ý
+Tuần 21-23    Bai07_Khi_AI_thien_vi.ipynb           Bộ lọc thiên vị tin nhắn không dấu
+Tuần 24-26    Bai08_AI_tao_sinh_nhap_mon.ipynb      Mô hình ngôn ngữ tí hon
+Tuần 28-35    DuAn01_Notebook_bao_cao_mau.ipynb     Khung báo cáo dự án (điền vào chỗ TODO)
+
+CÁCH MỞ
+1. Vào colab.research.google.com và đăng nhập tài khoản Google.
+2. Chọn File -> Upload notebook (Tệp -> Tải sổ tay lên), chọn tệp .ipynb.
+3. Chạy từng ô từ trên xuống (nút hình tam giác hoặc Shift + Enter).
+4. Chọn File -> Save a copy in Drive để lưu bài làm.
+
+GHI CHÚ
+- Không cần cài thêm thư viện, không cần GPU.
+- Kết quả in trong sách được chạy với Python 3.13, numpy 2.5.3, pandas 3.0.5,
+  scikit-learn 1.9.1, matplotlib 3.11.2. Phiên bản trên Colab có thể khác,
+  vài con số có thể lệch chút ít.
+- Dữ liệu trong các notebook do nhóm tác giả tự soạn để luyện tập.
